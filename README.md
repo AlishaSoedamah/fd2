@@ -31,11 +31,11 @@ Link:
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Home
-  <img src="readme-images/" width="375px" alt="Home">
+  <img src="readme-images/ss1.png" width="375px" alt="Home">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Services
-  <img src="readme-images/" width="375px" alt="Service">
+  <img src="readme-images/ss2.png" width="375px" alt="Service">
  
 </details>
 
