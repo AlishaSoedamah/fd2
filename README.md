@@ -29,12 +29,14 @@ Link:
   <a href="https://jukiamsterdam.com/?srsltid=AfmBOorRswkvYUIz0k-c_SV7NEXcUvSlzgMnW25IUHFy6NtcWeBIe8TE">Link</a>
   
 
-  #### Screenshot(s) van de eerste pagina (small screen): 
+  #### Screenshot(s) van de eerste pagina: 
   Home
+  
   <img src="readme-images/ss1.png" width="375px" alt="Home">
 
-  #### Screenshot(s) van de tweede pagina (small screen):
-  Services
+  #### Screenshot(s) van de tweede pagina
+  Detail product + micro interactie
+  
   <img src="readme-images/ss2.png" width="375px" alt="Service">
  
 </details>
